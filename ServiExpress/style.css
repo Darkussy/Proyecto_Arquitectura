@@ -219,6 +219,14 @@ span {
     background-color: #EFF3F4;
     display: none;
 }
+.box-map {
+    border-top: 2px solid #9bce21;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    background-color: #EFF3F4;
+    display: none;
+}
 
 .box:nth-child(1),
 .box:nth-child(2),
